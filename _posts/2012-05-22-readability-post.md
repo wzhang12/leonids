@@ -3,9 +3,7 @@ layout: post
 title: "Testing Readability with a Bunch of Text"
 excerpt: "A ton of text to test readability."
 categories: [paragraph]
-tags:
-- test
-- test1
+tags: [test,test1]
 comments: true
 ---
 
