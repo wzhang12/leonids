@@ -17,3 +17,6 @@ comments: true
 - [ ] Distribution
 - [ ] Ack
 - [ ] Message TTL
+- [ ] Dead Letter Queue  
+- [ ] High Availability
+- [ ] SendMessageBatch
